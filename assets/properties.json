@@ -1,0 +1,28 @@
+{
+    "id": "McDonalds",
+    "descripcion": "Sitio de comida rápida",
+    "categoria": "Hawaiiana",
+    "valoraciones": [
+        4, 3, 5, 3, 3, 1, 5, 0
+    ],
+    "platos_disponibles_crear": [
+        {
+            "nombre": "Macarrones con pesto",
+            "descripcion": "Macarrones cocidos con salsa pesto natural",
+            "disponible": true,
+            "precio": 12.0
+        },
+        {
+            "nombre": "Hamburguesa los dioses",
+            "descripcion": "Hamburguesa con becon, huevo y cebolla",
+            "disponible": true,
+            "precio": 15.0
+        },
+        {
+            "nombre": "Spaguettis escandinavos",
+            "descripcion": "Spaguettis con salsa escandivana y un poco de rúcula",
+            "disponible": true,
+            "precio": 9.0
+        }
+    ]
+}
